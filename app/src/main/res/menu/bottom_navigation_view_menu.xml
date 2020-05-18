@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <item
+        android:id="@+id/shopping_design"
+        android:icon="@drawable/vector_shopping_designg"
+        android:title="逛設計"
+        tools:ignore="HardcodedText" />
+
+    <item
+        android:id="@+id/special_plan"
+        android:icon="@drawable/vector_special_plan"
+        android:title="慾望清單"
+        tools:ignore="HardcodedText" />
+
+    <item
+        android:id="@+id/special_plan2"
+        android:icon="@drawable/vector_special_plan"
+        android:title="特別企劃"
+        tools:ignore="HardcodedText" />
+
+    <item
+        android:id="@+id/special_plan3"
+        android:icon="@drawable/vector_special_plan"
+        android:title="通知中心"
+        tools:ignore="HardcodedText" />
+
+    <item
+        android:id="@+id/special_plan4"
+        android:icon="@drawable/vector_special_plan"
+        android:title="我的帳戶"
+        tools:ignore="HardcodedText" />
+</menu>
